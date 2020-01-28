@@ -14,9 +14,9 @@ defaults:
     values:
       image: true
 
-title: liuz's blog
-name: liuz's blog
-description: liuz's blog
+title: liuz的博客
+name: liuz的博客
+description: liuz的个人博客
 
 github: https://github.com/liuzdz
 rss: true

@@ -4,11 +4,11 @@ title: 关于
 reward: false
 ---
 
-### Minimalism
+### 晓风的个人博客
 
 ---
 
-[Minimalism] 是一款基于 [Jekyll] 为极简主义者打造的极简主题。
+[晓风的个人网站主页]
+怎么自我介绍一下呢，这真的是一个比较难的问题，那就这样吧
 
-[Minimalism]: https://github.com/showzeng/Minimalism
-[Jekyll]: https://jekyllrb.com/
+[晓风的个人网站主页]: https://liuz.xyz
